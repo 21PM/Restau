@@ -1,0 +1,30 @@
+#outer_container_review{
+    /* width: 100%; */
+    /* border: 2px solid lightgreen; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: max-content;
+
+}
+#inner_container_review{
+    width :85%;
+    /* border: 2px solid red; */
+    max-height: max-content;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 45px 0px;
+   
+}
+#inside_inner_contianer{ 
+    max-width: 95%;
+    /* border: 2px solid blue; */
+    max-height: max-content;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+    column-gap: 25px;
+}
+

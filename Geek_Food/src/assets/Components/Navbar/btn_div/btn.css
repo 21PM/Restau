@@ -1,0 +1,27 @@
+#get_started_div{
+    display: flex;
+    line-height: 24px;
+    padding: 17px 8px;
+    cursor: pointer;
+    /* width: 163.4px; */
+    /* border: 2px solid burlywood; */
+    
+
+}
+.startedBtn{
+    font-weight: 500;
+    align-items: center;
+    color: white;
+    width: 103.4px;
+    background-color : #2563eb;
+    font-size: 14px;
+    font-stretch: 100%;
+    border-radius: 8px;
+    align-items: flex-start;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    border-style: none;
+    cursor: pointer ;
+}
+.startedBtn:hover {
+    background-color: #0047d5; /* Button color on hover */
+  }

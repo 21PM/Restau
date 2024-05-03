@@ -1,0 +1,17 @@
+#footer_logo_div{
+    width: 157.325px;
+    display: flex;
+    margin: auto;
+    /* border: 2px solid yellowgreen; */
+    margin-top: 7%;
+}
+#footer_logo_para{
+    max-width: 448px;
+    display: flex;
+    margin: auto;
+    /* border: 2px solid yellowgreen; */
+    margin-top: 7%;
+    height: 52px;
+    margin: 24px 256px 0px;
+    color:rgb(107, 114, 128);
+}

@@ -1,0 +1,13 @@
+.navstyle{
+    height: 68.8px;
+    line-height: 24px;
+    /* border: 2px solid red; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111827;
+    color: white;
+    padding: 0 9rem;
+    position: fixed;
+    z-index: 50;
+}

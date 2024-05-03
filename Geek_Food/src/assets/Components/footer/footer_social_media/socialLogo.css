@@ -1,0 +1,11 @@
+.outer_social_logo{
+    height: 24px;
+    width: 960px;
+    row-gap: 32px;
+    margin-top: 48px;
+    line-height: 24px;
+    display: flex;
+    justify-content: center;
+    column-gap: 32px;
+    /* border: 2px solid black; */
+}
