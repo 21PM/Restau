@@ -6,7 +6,9 @@ import ReviewContainer from "./assets/Components/review/review.jsx"
 import QuotePage from "./assets/QuoteComponents/Quote.jsx"
 import quotesdata from "./assets/QuoteComponents/quoteData.js"
 import Quotefullpage from "./assets/QuoteComponents/fullquotepage.jsx"
+import Resturant from "./assets/Resturants/resturantfullpage.jsx"
 import { useState } from "react"
+
 // console.log(quotesdata);
 
 function App() {
@@ -23,12 +25,12 @@ function App() {
   return (
     <>  
       <h1></h1>
-          <Navouterdiv/>
+          {/* <Navouterdiv/> */}
           {/* <FrontPage/>
           <House/>
           <ReviewContainer/> */}
-          <Quotefullpage onMenuItemChange={handleMenuItemChange}/>  
-
+          {/* <Quotefullpage onMenuItemChange={handleMenuItemChange}/>   */}
+          <Resturant/>
   
         {/* // <Quotefullpage onMenuItemChange={handleMenuItemChange}/>   */}
         {/* <Footermain/> */}
